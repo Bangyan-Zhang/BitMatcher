@@ -1,0 +1,1 @@
+The test datasets can be downloaded from Releases (on the right side of the webpage, https://github.com/sigkdd2023doubleblind/BitMatcher/releases/tag/Datasets).
